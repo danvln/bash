@@ -4,6 +4,8 @@ set -e
 # wget https://raw.githubusercontent.com/danvln/bash/master/.bash.sh -O - >> ~/.zshrc
 # wget https://raw.githubusercontent.com/danvln/bash/master/.bash.sh -O - >> ~/.bashrc
 
+# source <(curl -s https://raw.githubusercontent.com/danvln/bash/master/.bash.sh)
+
 #########################################################################################################################################################
 ### COLORS
 #########################################################################################################################################################
