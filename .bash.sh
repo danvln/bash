@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-# wget https://raw.githubusercontent.com/danvln/bash/.bash.sh -O - >> ~/.zshrc
-# wget https://raw.githubusercontent.com/danvln/bash/.bash.sh -O - >> ~/.bashrc
+# wget https://raw.githubusercontent.com/danvln/bash/master/.bash.sh -O - >> ~/.zshrc
+# wget https://raw.githubusercontent.com/danvln/bash/master/.bash.sh -O - >> ~/.bashrc
 
 #########################################################################################################################################################
 ### COLORS
